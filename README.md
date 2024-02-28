@@ -22,7 +22,11 @@ To stop the script, execute:  pm2 stop app.js
 Additional PM2 teams:
 
 Restart the script: pm2 restart app.js
+
 Show a list of advanced processes: pm2 list
+
 Get detailed information about the process: pm2 show app
+
 To stop the script, execute: pm2 stop app.js 
+
 Launch of Skipt: pm2 start app.js
