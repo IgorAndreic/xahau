@@ -4,6 +4,7 @@ PM2 is a process manager for node.js applications that will help you run and mon
 Install PM2 globally:
 
 npm install pm2@latest -g
+
 Launch your node.js script using PM2:
 
 pm2 start app.js
